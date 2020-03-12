@@ -1,0 +1,852 @@
+Dinf.Filename
+MedImProc/Renal/171
+Dinf.FileModDate
+31-Jan-2018 15:49:28
+Dinf.FileSize
+     1970530
+
+Dinf.Format
+DICOM
+Dinf.FormatVersion
+     3
+
+Dinf.Width
+   128
+
+Dinf.Height
+   128
+
+Dinf.BitDepth
+   16
+
+Dinf.ColorType
+grayscale
+Dinf.FileMetaInformationGroupLength
+   206
+
+Dinf.FileMetaInformationVersion
+   0
+   1
+
+Dinf.MediaStorageSOPClassUID
+1.2.840.10008.5.1.4.1.1.20
+Dinf.MediaStorageSOPInstanceUID
+1.2.840.113619.2.170.1.2.0.7122017183508218.27890
+Dinf.TransferSyntaxUID
+1.2.840.10008.1.2.1
+Dinf.ImplementationClassUID
+1.2.840.113619.6.184
+Dinf.ImplementationVersionName
+Xeleris 2.1753
+Dinf.SourceApplicationEntityTitle
+GE-XELERIS3-MN
+Dinf.IdentifyingGroupLength
+   548
+
+Dinf.ImageType
+ORIGINAL\PRIMARY\DYNAMIC\EMISSION
+Dinf.InstanceCreationDate
+20180131
+Dinf.InstanceCreationTime
+154928.0000
+Dinf.InstanceCreatorUID
+1.2.840.113619.6.184
+Dinf.SOPClassUID
+1.2.840.10008.5.1.4.1.1.20
+Dinf.SOPInstanceUID
+1.2.840.113619.2.170.1.2.0.7122017183508218.27890
+Dinf.StudyDate
+20171207
+Dinf.SeriesDate
+20171207
+Dinf.AcquisitionDate
+20171207
+Dinf.ContentDate
+20171207
+Dinf.StudyTime
+164244.00
+Dinf.SeriesTime
+164244.00
+Dinf.AcquisitionTime
+164244.00
+Dinf.ContentTime
+164244.00
+Dinf.AccessionNumber
+NM1710655
+Dinf.Modality
+NM
+Dinf.Manufacturer
+GE MEDICAL SYSTEMS
+Dinf.InstitutionName
+Instituto do coracao-HCFMUSP
+Dinf.ReferringPhysicianName.FamilyName
+Dinf.ReferringPhysicianName.GivenName
+Dinf.ReferringPhysicianName.MiddleName
+Dinf.ReferringPhysicianName.NamePrefix
+Dinf.ReferringPhysicianName.NameSuffix
+Dinf.StationName
+ge-infinia-mn
+Dinf.StudyDescription
+User&Renal&Estudo Renal Dinamico DTPA
+Dinf.SeriesDescription
+DINAMICO
+Dinf.PhysicianReadingStudy.FamilyName
+Dinf.PhysicianReadingStudy.GivenName
+Dinf.PhysicianReadingStudy.MiddleName
+Dinf.PhysicianReadingStudy.NamePrefix
+Dinf.PhysicianReadingStudy.NameSuffix
+Dinf.OperatorName.FamilyName
+Dinf.OperatorName.GivenName
+Dinf.OperatorName.MiddleName
+Dinf.OperatorName.NamePrefix
+Dinf.OperatorName.NameSuffix
+Dinf.ManufacturerModelName
+INFINIA
+Dinf.Private_0009_GroupLength
+   346
+
+Dinf.Private_0009_10xx_Creator
+GEMS_GENIE_1
+Dinf.Private_0009_1001
+GEMS_GENIE
+Dinf.Private_0009_1010
+Estudo Renal Din
+Dinf.Private_0009_1011
+   4105
+
+Dinf.Private_0009_1012
+   0
+
+Dinf.Private_0009_101e
+Dinf.Private_0009_1020
+DINAMICO
+Dinf.Private_0009_1021
+   1
+
+Dinf.Private_0009_1022
+Dinf.Private_0009_1023
+   0
+
+Dinf.Private_0009_1024
+   0
+
+Dinf.Private_0009_1025
+   0
+
+Dinf.Private_0009_1026
+   1
+
+Dinf.Private_0009_1027
+   1
+
+Dinf.Private_0009_1028
+   0
+
+Dinf.Private_0009_1029
+   0
+
+Dinf.Private_0009_102a
+   0
+
+Dinf.Private_0009_102b
+Dinf.Private_0009_102c
+Dinf.Private_0009_102e
+     0
+
+Dinf.Private_0009_102f
+   0
+
+Dinf.Private_0009_1040.FamilyName
+Dinf.Private_0009_1040.GivenName
+TM
+Dinf.Private_0009_1041
+   1
+
+Dinf.Private_0009_1042
+Dinf.Private_0009_1043
+Dinf.Private_0009_1045
+**
+Dinf.PatientGroupLength
+   132
+
+Dinf.PatientName.FamilyName
+Dinf.PatientName.GivenName
+Dinf.PatientID
+Dinf.PatientBirthDate
+Dinf.PatientSex
+Dinf.OtherPatientID
+Dinf.OtherPatientName.FamilyName
+Dinf.OtherPatientName.GivenName
+Dinf.OtherPatientName.MiddleName
+Dinf.OtherPatientName.NamePrefix
+Dinf.OtherPatientName.NameSuffix
+Dinf.PatientSize
+     0
+
+Dinf.PatientWeight
+     0
+
+Dinf.EthnicGroup
+Dinf.Occupation
+Dinf.Private_0011_GroupLength
+   638
+
+Dinf.Private_0011_10xx_Creator
+GEMS_GENIE_1
+Dinf.Private_0011_100a
+   6
+
+Dinf.Private_0011_100b
+   1860000
+
+Dinf.Private_0011_100c
+   0
+
+Dinf.Private_0011_100d
+Tc99m
+Dinf.Private_0011_1010
+Dinf.Private_0011_1011
+   0
+
+Dinf.Private_0011_1012
+POST
+Dinf.Private_0011_1013
+   8
+
+Dinf.Private_0011_1014
+Dinf.Private_0011_1015
+   1
+
+Dinf.Private_0011_1016
+   1
+
+Dinf.Private_0011_1017
+   0
+
+Dinf.Private_0011_1018
+   0
+
+Dinf.Private_0011_1019
+     0
+
+Dinf.Private_0011_101a
+   0
+
+Dinf.Private_0011_101f
+   0
+
+Dinf.Private_0011_1026
+   0
+
+Dinf.Private_0011_1027
+   0
+   0
+
+Dinf.Private_0011_1028
+   0
+   0
+
+Dinf.Private_0011_102c
+     0
+
+Dinf.Private_0011_102d
+     0
+
+Dinf.Private_0011_102e
+   0
+
+Dinf.Private_0011_102f
+   32767
+
+Dinf.Private_0011_1030
+POST
+Dinf.Private_0011_1031
+**
+Dinf.Private_0011_1032
+**
+Dinf.Private_0011_1033
+**
+Dinf.Private_0011_1034
+**
+Dinf.Private_0011_1035
+**
+Dinf.Private_0011_1036
+**
+Dinf.Private_0011_1037
+Dinf.Private_0011_1038
+   108
+
+Dinf.Private_0011_1039
+   0
+
+Dinf.Private_0011_103a
+   0
+
+Dinf.Private_0011_103b
+     1
+
+Dinf.Private_0011_103c
+     0
+
+Dinf.Private_0011_103f
+   265
+
+Dinf.Private_0011_1040
+current
+Dinf.Private_0011_1041
+   0
+
+Dinf.Private_0011_1042
+     0
+
+Dinf.Private_0011_1043
+   0
+
+Dinf.Private_0011_1044
+        2048
+
+Dinf.Private_0011_1045
+        4096
+
+Dinf.Private_0011_1046
+   2
+
+Dinf.Private_0011_1050
+POST
+Dinf.Private_0011_1055
+     1
+
+Dinf.Private_0011_1056
+     1
+
+Dinf.Private_0011_1057
+  565.5117
+  565.5117
+
+Dinf.Private_0013_GroupLength
+   84
+
+Dinf.Private_0013_10xx_Creator
+GEMS_GENIE_1
+Dinf.Private_0013_1010
+     0
+     0
+
+Dinf.Private_0013_1011
+   4
+
+Dinf.Private_0013_1012
+   0
+
+Dinf.Private_0013_1015
+     0
+
+Dinf.AcquisitionGroupLength
+   188
+
+Dinf.BodyPartExamined
+ABDOMEN
+Dinf.CountsAccumulated
+    18963485
+
+Dinf.AcquisitionTerminationCondition
+TIME
+Dinf.DeviceSerialNumber
+17763
+Dinf.SoftwareVersion
+2.104.119.14\HARDWARE_VERSION_1
+Dinf.ProtocolName
+CrystalThickness 3
+Dinf.TriggerSourceOrType
+EKG
+Dinf.TableHeight
+     0
+
+Dinf.TableTraverse
+   1.6323e+03
+
+Dinf.CountRate
+       10889
+
+Dinf.PatientPosition
+FFS
+Dinf.RelationshipGroupLength
+   208
+
+Dinf.StudyInstanceUID
+1.2.40.0.13.0.1710655.20171207.163059
+Dinf.SeriesInstanceUID
+1.2.840.113619.2.170.1.2.0.7122017183510843.6638
+Dinf.StudyID
+Estudo Renal Din
+Dinf.SeriesNumber
+     1
+
+Dinf.InstanceNumber
+Dinf.FrameOfReferenceUID
+1.2.840.113619.2.170.1.2.0.7122017183510843.6638
+Dinf.PositionReferenceIndicator
+Dinf.ImagePresentationGroupLength
+   206
+
+Dinf.SamplesPerPixel
+   1
+
+Dinf.PhotometricInterpretation
+MONOCHROME2
+Dinf.NumberOfFrames
+    60
+
+Dinf.FrameIncrementPointer
+    84    16    84    32    84    48    84   256
+
+Dinf.Rows
+   128
+
+Dinf.Columns
+   128
+
+Dinf.PixelSpacing
+    4.4181
+    4.4181
+
+Dinf.BitsAllocated
+   16
+
+Dinf.BitsStored
+   16
+
+Dinf.HighBit
+   15
+
+Dinf.PixelRepresentation
+   0
+
+Dinf.SmallestImagePixelValue
+   0
+
+Dinf.LargestImagePixelValue
+   710
+
+Dinf.WindowCenter
+   355
+
+Dinf.WindowWidth
+   710
+
+Dinf.Private_0033_GroupLength
+   78
+
+Dinf.Private_0033_10xx_Creator
+GEMS_GENIE_1
+Dinf.Private_0033_1007
+1.2.840.113619.2.170.1.2.0.7122017183508218.27890
+Dinf.NuclearAcquisitionGroupLength
+   1124
+
+Dinf.EnergyWindowVector
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+
+Dinf.NumberOfEnergyWindows
+   1
+
+Dinf.EnergyWindowInformationSequence.Item_1.EnergyWindowRangeSequence.Item_1.EnergyWindowLowerLimit
+   126
+
+Dinf.EnergyWindowInformationSequence.Item_1.EnergyWindowRangeSequence.Item_1.EnergyWindowUpperLimit
+   154
+
+Dinf.RadiopharmaceuticalInformationSequence.Item_1.RadiopharmaceuticalVolume
+     0
+
+Dinf.RadiopharmaceuticalInformationSequence.Item_1.RadionuclideTotalDose
+     0
+
+Dinf.RadiopharmaceuticalInformationSequence.Item_1.RadionuclideCodeSequence.Item_1.CodeValue
+C-163A8
+Dinf.RadiopharmaceuticalInformationSequence.Item_1.RadionuclideCodeSequence.Item_1.CodingSchemeDesignator
+SNM3
+Dinf.RadiopharmaceuticalInformationSequence.Item_1.RadionuclideCodeSequence.Item_1.CodeMeaning
+^99m^Technetium
+Dinf.DetectorVector
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+
+Dinf.NumberOfDetectors
+   1
+
+Dinf.DetectorInformationSequence.Item_1.GantryDetectorTilt
+     0
+
+Dinf.DetectorInformationSequence.Item_1.RadialPosition
+     0
+
+Dinf.DetectorInformationSequence.Item_1.CenterOfRotationOffset
+     0
+
+Dinf.DetectorInformationSequence.Item_1.FieldOfViewShape
+Dinf.DetectorInformationSequence.Item_1.FieldOfViewDimensions
+     0
+     0
+
+Dinf.DetectorInformationSequence.Item_1.CollimatorGridName
+LEHR
+Dinf.DetectorInformationSequence.Item_1.CollimatorType
+PARA
+Dinf.DetectorInformationSequence.Item_1.FocalDistance
+     0
+
+Dinf.DetectorInformationSequence.Item_1.XFocusCenter
+     0
+
+Dinf.DetectorInformationSequence.Item_1.YFocusCenter
+     0
+
+Dinf.DetectorInformationSequence.Item_1.ImagePositionPatient
+   1.0e+03 *
+
+   -0.2805
+   -0.2805
+    1.6323
+
+Dinf.DetectorInformationSequence.Item_1.ImageOrientationPatient
+Dinf.DetectorInformationSequence.Item_1.ZoomFactor
+     1
+     1
+
+Dinf.DetectorInformationSequence.Item_1.ZoomCenter
+     0
+     0
+
+Dinf.DetectorInformationSequence.Item_1.StartAngle
+   360
+
+Dinf.PhaseVector
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   1
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+   2
+
+Dinf.NumberOfPhases
+   2
+
+Dinf.PhaseInformationSequence.Item_1.ActualFrameDuration
+        2000
+
+Dinf.PhaseInformationSequence.Item_1.NumberOfFramesInPhase
+   30
+
+Dinf.PhaseInformationSequence.Item_1.PhaseDelay
+     0
+
+Dinf.PhaseInformationSequence.Item_1.PauseBetweenFrames
+     0
+
+Dinf.PhaseInformationSequence.Item_2.ActualFrameDuration
+       60000
+
+Dinf.PhaseInformationSequence.Item_2.NumberOfFramesInPhase
+   30
+
+Dinf.PhaseInformationSequence.Item_2.PhaseDelay
+     0
+
+Dinf.PhaseInformationSequence.Item_2.PauseBetweenFrames
+     0
+
+Dinf.TimeSliceVector
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+   10
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
+   21
+   22
+   23
+   24
+   25
+   26
+   27
+   28
+   29
+   30
+
+Dinf.ImageID
+DINAMICO
+Dinf.Private_0055_GroupLength
+   392
+
+Dinf.Private_0055_10xx_Creator
+GEMS_GENIE_1
+Dinf.Private_0055_1012.Item_1.Private_0055_10xx_Creator
+GEMS_GENIE_1
+Dinf.Private_0055_1012.Item_1.Private_0055_1013.Item_1.Private_0011_10xx_Creator
+GEMS_GENIE_1
+Dinf.Private_0055_1012.Item_1.Private_0055_1013.Item_1.Private_0011_101c
+   0
+
+Dinf.Private_0055_1012.Item_1.Private_0055_1013.Item_1.Private_0011_101d
+   0
+
+Dinf.Private_0055_1012.Item_1.Private_0055_1013.Item_1.Private_0013_10xx_Creator
+GEMS_GENIE_1
+Dinf.Private_0055_1012.Item_1.Private_0055_1013.Item_1.Private_0013_1016
+   0
+
+Dinf.Private_0055_1012.Item_1.Private_0055_1013.Item_1.Private_0013_1017
+   0
+
+Dinf.Private_0055_1022.Item_1.Private_0011_10xx_Creator
+GEMS_GENIE_1
+Dinf.Private_0055_1022.Item_1.Private_0011_1023
+   0
+
+Dinf.Private_0055_1022.Item_1.Private_0011_1024
+   0
+
+Dinf.Private_0055_1022.Item_1.Private_0011_1025
+   0
+
+Dinf.Private_0055_1022.Item_1.Private_0011_1029
+   0
+
+Dinf.Private_0055_1022.Item_1.Private_0011_103e
+   13
+
+Dinf.Private_0055_1022.Item_1.Private_0013_10xx_Creator
+GEMS_GENIE_1
+Dinf.Private_0055_1022.Item_1.Private_0013_1018
+     0
+
+Dinf.Private_0055_1022.Item_1.Private_0013_1019
+     0
+
+Dinf.Private_0055_1022.Item_1.Private_0013_101a
+     0
+
+Dinf.Private_0055_1022.Item_1.Private_0035_10xx_Creator
+GEMS_GENIE_1
+Dinf.Private_0055_1022.Item_1.Private_0035_1001
+   180
+
+Dinf.Private_0055_1065.Item_1
+Dinf.PixelDataGroupLength
+   1966092
